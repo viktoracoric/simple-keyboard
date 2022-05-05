@@ -32,7 +32,7 @@
     <color name="key_background_normal_lxx_light">#22222222</color>
     <color name="key_background_pressed_lxx_light">#2637474F</color>
     <!-- Color resources for LXX_Dark theme. -->
-    <color name="background_lxx_dark">#263238</color>
+    <color name="background_lxx_dark">#141414</color>
     <color name="key_text_color_lxx_dark">#CCFFFFFF</color>
     <color name="key_functional_text_color_lxx_dark">#CCFFFFFF</color>
     <color name="key_text_inactive_color_lxx_dark">#80FFFFFF</color>

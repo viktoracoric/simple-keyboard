@@ -139,19 +139,19 @@ public final class Settings implements SharedPreferences.OnSharedPreferenceChang
     }
 
     public static boolean readEnableImeSwitch(final SharedPreferences prefs) {
-        return prefs.getBoolean(PREF_ENABLE_IME_SWITCH, false);
+        return prefs.getBoolean(PREF_ENABLE_IME_SWITCH, true);
     }
 
     public static boolean readHideSpecialChars(final SharedPreferences prefs) {
-        return prefs.getBoolean(PREF_HIDE_SPECIAL_CHARS, false);
+        return prefs.getBoolean(PREF_HIDE_SPECIAL_CHARS, true);
     }
 
     public static boolean readShowNumberRow(final SharedPreferences prefs) {
-        return prefs.getBoolean(PREF_SHOW_NUMBER_ROW, false);
+        return prefs.getBoolean(PREF_SHOW_NUMBER_ROW, true);
     }
 
     public static boolean readSpaceSwipeEnabled(final SharedPreferences prefs) {
-        return prefs.getBoolean(PREF_SPACE_SWIPE, false);
+        return prefs.getBoolean(PREF_SPACE_SWIPE, true);
     }
 
     public static boolean readDeleteSwipeEnabled(final SharedPreferences prefs) {
