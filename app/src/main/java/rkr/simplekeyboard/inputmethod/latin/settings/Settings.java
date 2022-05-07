@@ -139,7 +139,7 @@ public final class Settings implements SharedPreferences.OnSharedPreferenceChang
     }
 
     public static boolean readEnableImeSwitch(final SharedPreferences prefs) {
-        return prefs.getBoolean(PREF_ENABLE_IME_SWITCH, true);
+        return prefs.getBoolean(PREF_ENABLE_IME_SWITCH, false);
     }
 
     public static boolean readHideSpecialChars(final SharedPreferences prefs) {
