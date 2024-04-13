@@ -75,6 +75,8 @@
     <string name="subtype_q">Q</string>
     <!-- Description for Turkish (F) keyboard layout. -->
     <string name="subtype_f">F</string>
+    <!-- Description for Bengali (Akkhor) keyboard layout. -->
+    <string name="subtype_akkhor">Akkhor</string>
 
     <string name="keyboard_theme_dark_border" translatable="false">Material Dark Border</string>
     <string name="keyboard_theme_light_border" translatable="false">Material Light Border</string>
@@ -115,4 +117,6 @@
     <string name="remove_language">Remove language</string>
     <string name="generic_language_layouts"><xliff:g id="LANGUAGE_NAME" example="English (US)">%s</xliff:g> keyboard layouts</string>
     <string name="change_keyboard">Change keyboard</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="license">License</string>
 </resources>
